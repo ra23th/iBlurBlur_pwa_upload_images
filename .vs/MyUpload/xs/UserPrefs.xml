@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C8D3263E-F1F0-4FFF-8884-50DCA96D93BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyUpload.Android/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="MyUpload/MainPage.xaml.cs" Line="99" Column="50" />
+      <File FileName="MyUpload/MainPage.xaml" Line="14" Column="20" />
+      <File FileName="../../.nuget/packages/xam.plugin.media/4.0.1.5/readme.txt" />
+      <File FileName="../../.nuget/packages/plugin.permissions/3.0.0.12/readme.txt" />
+      <File FileName="MyUpload.Android/Resources/xml/file_paths.xml" Line="1" Column="1" />
+      <File FileName="MyUpload.Android/MainActivity.cs" Line="32" Column="40" />
+      <File FileName="MyUpload.Android/MainApplication.cs" />
+      <File FileName="MyUpload.Android/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyUpload" expanded="True">
+            <Node name="MyUpload" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="MyUpload.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyUpload.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyUpload.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Phone_Pixel_O" />
+</Properties>

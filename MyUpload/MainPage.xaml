@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    x:Class="MyUpload.MainPage">
+     <Frame
+        BackgroundColor="White"
+        VerticalOptions="Center"
+        Padding="20, 30"
+        Margin="30"
+        HasShadow="false">
+        <StackLayout
+            Orientation="Vertical">
+            <Image
+                HeightRequest="90"
+                Aspect="AspectFit"
+                Source="header.png" />
+            <Button
+                Text="CAMERA"
+                Margin="0, 28, 0, 0"
+                Clicked="TakePhoto_Clicked"
+                BackgroundColor="#E8F5E9" />
+            <Button
+                Text="GALLERY"
+                Clicked="PickPhoto_Clicked"
+                BackgroundColor="#F3E5F5" />
+            <Button
+                Text="UPLOAD IMAGE"
+                Clicked="UploadPhoto_Clicked"
+                BackgroundColor="#E3F2FD" />
+            <controls:CircleImage
+                x:Name="MainImage"
+                BorderThickness="3"
+                BorderColor="Yellow"
+                WidthRequest="150"
+                HeightRequest="150"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Aspect="AspectFill"
+                Source="upload_image.png"
+                Margin="0,20,0,0" />
+        </StackLayout>
+    </Frame>
+</ContentPage>

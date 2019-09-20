@@ -1,0 +1,12 @@
+/Users/iblurblur/Projects/MyUpload/MyUpload/bin/Debug/netstandard2.0/MyUpload.deps.json
+/Users/iblurblur/Projects/MyUpload/MyUpload/bin/Debug/netstandard2.0/MyUpload.dll
+/Users/iblurblur/Projects/MyUpload/MyUpload/bin/Debug/netstandard2.0/MyUpload.pdb
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/MyUpload.csprojAssemblyReference.cache
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/MyUpload.csproj.CoreCompileInputs.cache
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/MyUpload.AssemblyInfoInputs.cache
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/MyUpload.AssemblyInfo.cs
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/MyUpload.dll
+/Users/iblurblur/Projects/MyUpload/MyUpload/obj/Debug/netstandard2.0/MyUpload.pdb
