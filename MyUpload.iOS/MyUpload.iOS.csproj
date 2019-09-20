@@ -133,4 +133,9 @@
       <Name>MyUpload</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bg.png" />
+    <BundleResource Include="Resources\header.png" />
+    <BundleResource Include="Resources\upload_image.png" />
+  </ItemGroup>
 </Project>
